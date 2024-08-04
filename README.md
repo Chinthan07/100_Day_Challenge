@@ -1,3 +1,3 @@
 # 100_Day_Challenge
 
-Linux and OS scripting challenges 
+Linux and OS scripting  and other challenges 
