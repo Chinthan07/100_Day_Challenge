@@ -1,2 +1,3 @@
-#Day3
-#Installing OS (Documentation)
+# Day3
+
+Installing OS (Documentation)
