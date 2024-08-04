@@ -1,3 +1,3 @@
 # DAY2
-Different OS and Installing of OS
+Different OS used for cybersecurity
 
