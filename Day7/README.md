@@ -1,2 +1,4 @@
 # Day7
-Powershell
+Powershell commands and scripting
+
+ 
