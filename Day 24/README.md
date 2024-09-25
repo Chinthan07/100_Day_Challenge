@@ -1,2 +1,2 @@
-# Day 24 (26th August)
+# Day 24 (28th August)
 John the Ripper Brief Document
