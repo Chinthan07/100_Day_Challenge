@@ -1,2 +1,2 @@
-# Day 33 ()
-Privacy Preserving Technology
+# Day 33 (7th September)
+Privacy Preserving Technologies
